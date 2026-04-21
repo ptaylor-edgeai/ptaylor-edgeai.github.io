@@ -44,21 +44,14 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "dropdown-bookshelf",
-              title: "bookshelf",
-              description: "",
-              section: "Dropdown",
-              handler: () => {
-                window.location.href = "/books/";
-              },
-            },{id: "dropdown-blog",
-              title: "blog",
-              description: "",
-              section: "Dropdown",
-              handler: () => {
-                window.location.href = "/blog/";
-              },
-            },{id: "post-machine-unlearning-the-right-to-be-forgotten-is-harder-than-it-sounds",
+        },{id: "nav-submenus",
+          title: "submenus",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/_pages/dropdown/";
+          },
+        },{id: "post-machine-unlearning-the-right-to-be-forgotten-is-harder-than-it-sounds",
         
           title: "Machine Unlearning: The Right to Be Forgotten Is Harder Than It Sounds",
         
