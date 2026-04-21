@@ -83,6 +83,17 @@ ninja.data = [{
             window.location.href = "/blog/2025/plotly/";
           
         },
+      },{id: "post-machine-unlearning-the-right-to-be-forgotten-is-harder-than-it-sounds",
+        
+          title: "Machine Unlearning: The Right to Be Forgotten Is Harder Than It Sounds",
+        
+        description: "AI systems are now legally required to delete personal data on request. But deletion is more complicated than it sounds — the knowledge lives in the weights, distributed, entangled and invisible.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/machine-unlearning-the-right-to-be-forgotten/";
+          
+        },
       },{id: "post-a-post-with-image-galleries",
         
           title: "a post with image galleries",
