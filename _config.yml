@@ -7,7 +7,7 @@ first_name: Paul
 middle_name:
 last_name: Taylor
 contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
+  Email or Linkedin work best to reach me.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   PhD Candidate | Edge AI & Decentralised Federated Learning.
 footer_text: >
