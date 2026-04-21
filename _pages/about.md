@@ -35,10 +35,8 @@ coordinator. My work sits at the intersection of distributed systems, privacy-pr
 learning, and ultra-constrained hardware.
 
 My current research focuses on **RAD-FL** (Resource-Aware Decentralised Federated Learning),
-a framework implemented in Swift and deployed on Raspberry Pi Zero 2 W clusters. I am investigating
-empirical resource characterisation of federated machine unlearning on sub-watt edge hardware —
-work targeting the *IEEE Transactions on Network Science and Engineering* special issue on
-Federated Machine Learning and Unlearning for Privacy-Preserving Networked Intelligence.
+a framework implemented in Swift and deployed on Raspberry Pi Zero 2 W clusters. I am also investigating
+empirical resource characterisation of federated machine unlearning on sub-watt edge hardware.
 
 This research is grounded in four decades of industry experience across IT consulting and
 enterprise systems architecture, with clients spanning financial services, automotive, and
@@ -50,9 +48,7 @@ constraints, and real-world trade-offs that pure theory often overlooks.
 Edge AI &middot; Privacy-preserving ML &middot; Resource-constrained systems &middot;
 Non-IID data in distributed settings
 
-I hold a Master of Data Science from [James Cook University](https://www.jcu.edu.au/) and am
-actively engaged with the Australian AI research community, with a focus on roles at organisations
-such as [CSIRO Data61](https://data61.csiro.au/) and university research labs across NSW.
+I hold a Master of Data Science from [James Cook University](https://www.jcu.edu.au/).
 
 Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/paultay/) or
 [GitHub](https://github.com/ptaylor-edgeai).
