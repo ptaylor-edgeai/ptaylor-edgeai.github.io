@@ -12,7 +12,7 @@ profile:
   image_circular: false
   more_info: >
     <p>New South Wales, Australia</p>
-    <p><a href="mailto:">ptaylor-edgeai</a></p>
+    <p><a href="mailto:">ptaylor@captechu.edu</a></p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
