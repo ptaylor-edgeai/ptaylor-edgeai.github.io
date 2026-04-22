@@ -5,7 +5,6 @@ description: A physical Raspberry Pi Zero 2 W cluster for decentralised federate
 img: assets/img/cluster_photo.jpg
 importance: 1
 category: research
-permalink: /projects/rad-fl-cluster/
 ---
 
 ## The Hardware
