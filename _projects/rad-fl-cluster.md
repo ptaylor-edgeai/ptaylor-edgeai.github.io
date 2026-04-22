@@ -1,5 +1,5 @@
 ---
-layout: project
+layout: page
 title: Edge AI Research Cluster
 description: A physical Raspberry Pi Zero 2 W cluster for decentralised federated learning research
 img: assets/img/cluster_photo.jpg
@@ -13,15 +13,8 @@ This is a purpose-built physical testbed for researching **Decentralised Federat
 
 This is not a simulation. Every result is measured on real hardware under real resource pressure.
 
-<div class="row justify-content-center">
-  <div class="col-sm-10">
-    {% include figure.liquid loading="eager" path="assets/img/projects/cluster_photo.jpg" title="Edge AI Research Cluster" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
-<div class="caption">
-  6 Raspberry Pi Zero 2 W nodes (red cases) mounted on a hardwood board,
-  communicating over WiFi. Currently expanding to 10 nodes.
-</div>
+![Edge AI Research Cluster](/assets/img/cluster_photo.jpg)
+*6 Raspberry Pi Zero 2 W nodes (red cases) mounted on a hardwood board, communicating over WiFi. Currently expanding to 10 nodes.*
 
 ## Why Physical Hardware Matters
 
