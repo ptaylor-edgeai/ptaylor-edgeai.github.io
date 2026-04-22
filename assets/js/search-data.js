@@ -23,6 +23,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
+        },{id: "nav-projects",
+          title: "projects",
+          description: "A growing collection of your cool projects.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/projects/";
+          },
         },{id: "post-machine-unlearning-the-right-to-be-forgotten-is-harder-than-it-sounds",
         
           title: "Machine Unlearning: The Right to Be Forgotten Is Harder Than It Sounds",
