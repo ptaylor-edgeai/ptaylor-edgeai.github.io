@@ -2,7 +2,7 @@
 layout: page
 title: Edge AI Research Cluster
 description: A physical Raspberry Pi Zero 2 W cluster for decentralised federated learning research
-img: assets/img/projects/cluster_photo.jpg
+img: assets/img/cluster_photo.jpg
 importance: 1
 category: research
 ---
