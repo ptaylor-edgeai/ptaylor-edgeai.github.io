@@ -87,6 +87,11 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
+            },},{id: "projects-edge-ai-research-cluster",
+          title: 'Edge AI Research Cluster',
+          description: "A physical Raspberry Pi Zero 2 W cluster for decentralised federated learning research",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/rad-fl-cluster/";
             },},{id: "teachings-data-science-fundamentals",
           title: 'Data Science Fundamentals',
           description: "This course covers the foundational aspects of data science, including data collection, cleaning, analysis, and visualization. Students will learn practical skills for working with real-world datasets.",
